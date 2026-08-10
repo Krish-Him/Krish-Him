@@ -20,15 +20,15 @@
 │  KRISH BEHL                                                  │
 │  ─────────────────────────────────────────────────────────   │
 │                                                              │
-│  Cybersecurity Student & Security-Focused Developer           │
+│  Cybersecurity Student & Security-Focused Developer          │
 │                                                              │
-│  > Exploring cybersecurity                                  │
-│  > Building security tools                                  │
-│  > Working with threat intelligence                         │
+│  > Exploring cybersecurity                                   │
+│  > Building security tools                                   │
+│  > Working with threat intelligence                          │
 │  > Learning SOC & SIEM operations                            │
-│  > Experimenting with AI for security                       │
+│  > Experimenting with AI for security                        │
 │                                                              │
-│  STATUS: ████████████████████ ONLINE                        │
+│  STATUS: ████████████████████ ONLINE                         │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
