@@ -1,4 +1,4 @@
-# 🛡️ KRISH BEHL
+# 🛡️ KRISH
 
 <div align="center">
 
