@@ -152,9 +152,9 @@ A controlled cybersecurity laboratory for understanding network-based denial-of-
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Krish-Him&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=00ff41&icon_color=00ff41&text_color=ffffff" />
+<img src="https://github-stats-extended.vercel.app/api?username=Krish-Him&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=00ff41&icon_color=00ff41&text_color=ffffff" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-Him&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=00ff41&text_color=ffffff" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Krish-Him&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=00ff41&text_color=ffffff" />
 
 </div>
 
