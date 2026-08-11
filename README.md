@@ -174,7 +174,22 @@ A controlled cybersecurity laboratory for understanding network-based denial-of-
 
 <div align="center">
 
-<img src="./github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Krish-Him/Krish-Him/output/github-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Krish-Him/Krish-Him/output/github-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/Krish-Him/Krish-Him/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</picture>
 
 </div>
 
